@@ -1,0 +1,18 @@
+#borderchange{
+    background-color: rgb(0, 255, 42);
+    border: double;
+}
+
+body{
+    background-color: black;
+}
+
+h1{
+    color: white;
+    text-align-last: center;
+}
+
+h2{
+    color: rgb(0, 255, 0);
+    text-align-last: center;
+}
